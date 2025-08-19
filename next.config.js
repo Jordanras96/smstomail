@@ -5,8 +5,9 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/smstomail' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/smstomail/' : '',
+  // Only use basePath for GitHub Pages deployment, not for Vercel
+  basePath: process.env.GITHUB_ACTIONS ? '/smstomail' : '',
+  assetPrefix: process.env.GITHUB_ACTIONS ? '/smstomail/' : '',
 }
 
 module.exports = nextConfig
