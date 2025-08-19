@@ -152,9 +152,9 @@ export default function Privacy() {
                   Données Collectées
                 </h2>
                 <div className="space-y-4 text-gray-700">
-                  <p><strong>SMS reçus :</strong> L'application accède à vos SMS uniquement pour les transférer vers Gmail. Ces données ne sont jamais stockées sur nos serveurs.</p>
-                  <p><strong>Informations de compte Google :</strong> Adresse email et informations de profil basiques pour l'authentification Gmail.</p>
-                  <p><strong>Métadonnées techniques :</strong> Version de l'application, modèle d'appareil (pour le support technique uniquement).</p>
+                  <p><strong>SMS reçus :</strong> L&apos;application accède à vos SMS uniquement pour les transférer vers Gmail. Ces données ne sont jamais stockées sur nos serveurs.</p>
+                  <p><strong>Informations de compte Google :</strong> Adresse email et informations de profil basiques pour l&apos;authentification Gmail.</p>
+                  <p><strong>Métadonnées techniques :</strong> Version de l&apos;application, modèle d&apos;appareil (pour le support technique uniquement).</p>
                 </div>
               </motion.section>
 
@@ -168,7 +168,7 @@ export default function Privacy() {
                 </h2>
                 <div className="space-y-4 text-gray-700">
                   <p><strong>Transfert de SMS :</strong> Les SMS sont transférés directement de votre appareil vers votre compte Gmail personnel.</p>
-                  <p><strong>Authentification :</strong> Vos identifiants Google sont utilisés uniquement pour l'authentification avec les serveurs Gmail de Google.</p>
+                  <p><strong>Authentification :</strong> Vos identifiants Google sont utilisés uniquement pour l&apos;authentification avec les serveurs Gmail de Google.</p>
                   <p><strong>Support technique :</strong> Les informations de diagnostic peuvent être utilisées pour résoudre les problèmes techniques.</p>
                 </div>
               </motion.section>

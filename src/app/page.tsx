@@ -144,7 +144,7 @@ export default function Home() {
                 <Search className="h-6 w-6 text-green-500 mt-1 flex-shrink-0" />
                 <div>
                   <h4 className="font-semibold text-gray-900">Recherche puissante</h4>
-                  <p className="text-gray-600">Utilisez la recherche Gmail pour retrouver n'importe quel SMS</p>
+                  <p className="text-gray-600">Utilisez la recherche Gmail pour retrouver n&apos;importe quel SMS</p>
                 </div>
               </div>
               
@@ -259,7 +259,7 @@ export default function Home() {
                         <span className="text-sm font-medium text-gray-900">SMS transférés</span>
                         <span className="text-sm text-green-600 font-bold">847</span>
                       </div>
-                      <p className="text-xs text-gray-500">Depuis l'installation</p>
+                      <p className="text-xs text-gray-500">Depuis l&apos;installation</p>
                     </div>
                     
                     <div className="bg-white p-3 rounded-lg shadow-sm">
@@ -362,7 +362,7 @@ export default function Home() {
             </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-4">Sécurisé & Privé</h3>
             <p className="text-gray-600">
-              Utilise l'authentification Google officielle. Aucune donnée n'est stockée sur nos serveurs.
+              Utilise l&apos;authentification Google officielle. Aucune donnée n&apos;est stockée sur nos serveurs.
             </p>
           </div>
 
@@ -372,7 +372,7 @@ export default function Home() {
             </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-4">Intégration Gmail</h3>
             <p className="text-gray-600">
-              S'intègre parfaitement avec Gmail grâce aux APIs officielles de Google.
+              S&apos;intègre parfaitement avec Gmail grâce aux APIs officielles de Google.
             </p>
           </div>
         </div>
@@ -392,7 +392,7 @@ export default function Home() {
               <ArrowRight className="ml-2 h-4 w-4" />
             </Link>
             <Link href="/terms" className="inline-flex items-center px-6 py-3 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors">
-              Conditions d'Utilisation
+              Conditions d&apos;Utilisation
               <ArrowRight className="ml-2 h-4 w-4" />
             </Link>
           </div>

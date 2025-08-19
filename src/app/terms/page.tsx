@@ -102,7 +102,7 @@ export default function Terms() {
               <div className="w-8 h-8 bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg flex items-center justify-center">
                 <FileText className="h-5 w-5 text-white" />
               </div>
-              <span className="text-lg font-semibold text-gray-800">Conditions d'Utilisation</span>
+              <span className="text-lg font-semibold text-gray-800">Conditions d&apos;Utilisation</span>
             </div>
           </motion.div>
         </nav>
@@ -122,7 +122,7 @@ export default function Terms() {
               <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
                 Conditions 
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-blue-600">
-                  d'Utilisation
+                  d&apos;Utilisation
                 </span>
               </h1>
               <p className="text-lg text-gray-600">
@@ -161,8 +161,8 @@ export default function Terms() {
                   Acceptation des Conditions
                 </h2>
                 <div className="space-y-4 text-gray-700">
-                  <p>En utilisant SMS to Mail, vous acceptez pleinement ces conditions d'utilisation. Cette application révolutionnaire transforme votre expérience de gestion des SMS en offrant un transfert automatique, sécurisé et instantané vers Gmail.</p>
-                  <p><strong>Pourquoi choisir SMS to Mail ?</strong> Parce que nous croyons que vos données vous appartiennent. Notre engagement : une transparence totale, une sécurité maximale, et une simplicité d'utilisation inégalée.</p>
+                  <p>En utilisant SMS to Mail, vous acceptez pleinement ces conditions d&apos;utilisation. Cette application révolutionnaire transforme votre expérience de gestion des SMS en offrant un transfert automatique, sécurisé et instantané vers Gmail.</p>
+                  <p><strong>Pourquoi choisir SMS to Mail ?</strong> Parce que nous croyons que vos données vous appartiennent. Notre engagement : une transparence totale, une sécurité maximale, et une simplicité d&apos;utilisation inégalée.</p>
                 </div>
               </motion.section>
 
@@ -188,12 +188,12 @@ export default function Terms() {
               >
                 <h2 className="text-2xl font-bold text-gray-900 mb-4 flex items-center">
                   <UserCheck className="h-6 w-6 text-blue-600 mr-3" />
-                  Responsabilités de l'Utilisateur
+                  Responsabilités de l&apos;Utilisateur
                 </h2>
                 <div className="space-y-4 text-gray-700">
                   <p><strong>Utilisation légale et éthique :</strong> Vous vous engagez à utiliser SMS to Mail uniquement pour vos propres SMS et dans le respect de la législation en vigueur.</p>
                   <p><strong>Sécurité de votre compte :</strong> Maintenez la confidentialité de vos identifiants Google. SMS to Mail ne stocke jamais vos mots de passe.</p>
-                  <p><strong>Mise à jour recommandée :</strong> Gardez l'application à jour pour bénéficier des dernières améliorations de sécurité et des nouvelles fonctionnalités.</p>
+                  <p><strong>Mise à jour recommandée :</strong> Gardez l&apos;application à jour pour bénéficier des dernières améliorations de sécurité et des nouvelles fonctionnalités.</p>
                   <p><strong>Signalement responsable :</strong> Signalez tout problème ou comportement suspect à notre équipe support.</p>
                 </div>
               </motion.section>
@@ -207,9 +207,9 @@ export default function Terms() {
                   Propriété Intellectuelle
                 </h2>
                 <div className="space-y-4 text-gray-700">
-                  <p><strong>Code source ouvert :</strong> SMS to Mail est fier d'être open source. Vous pouvez consulter, auditer et contribuer au code sur GitHub.</p>
+                  <p><strong>Code source ouvert :</strong> SMS to Mail est fier d&apos;être open source. Vous pouvez consulter, auditer et contribuer au code sur GitHub.</p>
                   <p><strong>Transparence totale :</strong> Aucun code caché, aucune collecte de données secrète. Tout est vérifiable et auditable.</p>
-                  <p><strong>Marques et logos :</strong> Le nom "SMS to Mail" et les logos associés sont protégés. Utilisation autorisée pour la promotion de l'application.</p>
+                  <p><strong>Marques et logos :</strong> Le nom &quot;SMS to Mail&quot; et les logos associés sont protégés. Utilisation autorisée pour la promotion de l&apos;application.</p>
                 </div>
               </motion.section>
 
@@ -222,10 +222,10 @@ export default function Terms() {
                   Limitations de Responsabilité
                 </h2>
                 <div className="space-y-4 text-gray-700">
-                  <p><strong>Service "tel quel" :</strong> SMS to Mail est fourni gratuitement et sans garantie. Nous nous efforçons d'offrir le meilleur service possible.</p>
+                  <p><strong>Service &quot;tel quel&quot; :</strong> SMS to Mail est fourni gratuitement et sans garantie. Nous nous efforçons d&apos;offrir le meilleur service possible.</p>
                   <p><strong>Disponibilité du service :</strong> Bien que nous visions une disponibilité de 99.9%, des interruptions peuvent survenir pour maintenance ou cas de force majeure.</p>
                   <p><strong>Limitation des dommages :</strong> Notre responsabilité est limitée au maximum autorisé par la loi applicable.</p>
-                  <p><strong>Support communautaire :</strong> Le support est fourni sur la base du volontariat par notre communauté d'utilisateurs et développeurs.</p>
+                  <p><strong>Support communautaire :</strong> Le support est fourni sur la base du volontariat par notre communauté d&apos;utilisateurs et développeurs.</p>
                 </div>
               </motion.section>
 
@@ -239,7 +239,7 @@ export default function Terms() {
                 </h2>
                 <div className="space-y-4 text-gray-700">
                   <p><strong>Évolution continue :</strong> Ces conditions peuvent évoluer pour améliorer votre expérience. Toute modification importante vous sera notifiée.</p>
-                  <p><strong>Liberté totale :</strong> Vous pouvez arrêter d'utiliser SMS to Mail à tout moment, sans frais ni pénalité.</p>
+                  <p><strong>Liberté totale :</strong> Vous pouvez arrêter d&apos;utiliser SMS to Mail à tout moment, sans frais ni pénalité.</p>
                   <p><strong>Suppression automatique :</strong> En cas de désinstallation, toutes vos données locales sont automatiquement supprimées.</p>
                 </div>
               </motion.section>
@@ -250,8 +250,8 @@ export default function Terms() {
               >
                 <h2 className="text-2xl font-bold mb-4">Rejoignez la Révolution SMS to Mail</h2>
                 <p className="mb-4">
-                  Des milliers d'utilisateurs nous font déjà confiance pour sécuriser et simplifier leur gestion des SMS. 
-                  Rejoignez cette communauté avant-gardiste qui a choisi l'excellence et la transparence.
+                  Des milliers d&apos;utilisateurs nous font déjà confiance pour sécuriser et simplifier leur gestion des SMS. 
+                  Rejoignez cette communauté avant-gardiste qui a choisi l&apos;excellence et la transparence.
                 </p>
                 <p className="font-semibold text-lg">contact@smstomail.app</p>
                 <p className="text-sm opacity-90 mt-2">
